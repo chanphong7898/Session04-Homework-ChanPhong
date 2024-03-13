@@ -1,0 +1,47 @@
+.accordion1 {
+    background-color: #d8efff;
+    color: #444;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    color: rgb(0, 113, 218);
+    font-size: 20px;
+  }
+  .accordion2 {
+    background-color: #ffffff;
+    color: #444;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border:groove;
+    border-color: rgba(0, 0, 0, 0.24);
+    border-width: 2px;
+    margin-left: -2px;
+    border-right: none;
+    font-size: 20px;
+  }
+  .accordion3 {
+    background-color: #ffffff;
+    color: #444;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+  }
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+  }
+  body {
+    border:groove;
+    border-color: rgba(0, 0, 0, 0.24);
+    border-width: 2px;
+    border-radius: 10px;
+    
+  }

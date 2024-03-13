@@ -1,0 +1,38 @@
+
+.horror{
+    width: 700px;
+    padding: 60px;
+    background-color: rgb(255, 233, 233);
+    align-items: center;
+}
+.head{
+    text-align: center;
+    margin: auto;
+}
+.chap-list{
+    margin-top: 10px;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 6px 0;
+}
+.chap-list-item  {
+    text-decoration: none;
+}
+
+#chap-content_1,
+#chap-content_2,
+#chap-content_3
+{
+    text-align: justify;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.text-center {
+    text-align: center;
+    font-weight: 600;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 233, 233);
+}

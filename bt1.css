@@ -1,0 +1,16 @@
+h3 {
+    color: orange; 
+    padding-left: 10px
+}
+.p1 {
+    color: blue; 
+    padding-left: 10px
+}
+.p2 {
+    color: red; padding-left: 10px
+}
+.p3 {
+    background-color: rgb(255, 250, 184); 
+    padding-left: 10px; padding-top: 20px; 
+    padding-bottom: 20px;
+}

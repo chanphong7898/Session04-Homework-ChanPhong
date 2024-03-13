@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+.note-body {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.days {
+    padding-bottom: 10px;
+}
+.head {
+    padding-top: 10px;
+    font-size: 20px;
+}
+.button {
+    background-color: rgb(46, 119, 255);
+    color: white;
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 10px;
+}
